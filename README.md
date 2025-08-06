@@ -39,6 +39,7 @@ It includes features like **employee directory**, **leave requests management**,
 ## 🔑 Login Credentials
  **Use the following credentials to log in:**
     **Email**: admin@example.com
+    
     **Password**: 123456
 
 
@@ -55,6 +56,7 @@ It includes features like **employee directory**, **leave requests management**,
 
 ## ⚠️ Known Issues
   1.Authentication is mocked — no real backend API.
+  
   2.Data is stored in-memory — changes will reset on page reload.
 
 ## 📜 License
