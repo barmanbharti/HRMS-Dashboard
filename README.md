@@ -38,8 +38,8 @@ It includes features like **employee directory**, **leave requests management**,
 
 ## 🔑 Login Credentials
  **Use the following credentials to log in:**
-   Email: admin@example.com
-   Password: 123456
+    **Email**: admin@example.com
+    **Password**: 123456
 
 
 ## 📂 Project Structure
