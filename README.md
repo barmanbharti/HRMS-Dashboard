@@ -20,7 +20,7 @@ It includes features like **employee directory**, **leave requests management**,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/HRMS-Dashboard.git
+   git clone https://github.com/barmanbharti/HRMS-Dashboard.git
 
 2. **Navigate to the project folder**
    cd HRMS-Dashboard
@@ -61,7 +61,6 @@ It includes features like **employee directory**, **leave requests management**,
    
 ---
 
-If you copy‑paste the above into your `README.md`, it will be **complete** with **setup instructions, credentials, known issues, and features** exactly as required.  
-Do you also want me to **add example screenshots** of your Employee Directory & Login page in the README before you upload it to GitHub? That would make it more catchy.
+
 
 
