@@ -38,7 +38,7 @@ It includes features like **employee directory**, **leave requests management**,
 
 ## 🔑 Login Credentials
  **Use the following credentials to log in:**
-    **Email**: admin@example.com
+    **Email**: caspr@example.com
     
     **Password**: 123456
 
