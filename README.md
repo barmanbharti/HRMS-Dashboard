@@ -1,12 +1,67 @@
-# React + Vite
+# 🏢 HRMS Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Human Resource Management System (HRMS)** dashboard built with **React (Vite)** and **Tailwind CSS**.  
+It includes features like **employee directory**, **leave requests management**, and a **profile section** with mock authentication.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔐 **Mock Authentication** (No real backend, using `dummyAuth.js`)
+- 📋 **Employee Directory** (Add, Edit, Delete, Search Employees)
+- 🗓 **Leave Requests** (Add, Edit, Delete Requests)
+- 🙍 **User Profile** (View and update basic details)
+- 📱 **Responsive UI** (Mobile-friendly with collapsible sidebar)
+- 🎨 **Tailwind CSS Styling** (Modern and clean design)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/HRMS-Dashboard.git
+
+2. **Navigate to the project folder**
+   cd HRMS-Dashboard
+   
+3. **Install dependencies**
+    npm install
+   
+4. **Run the development server**
+    npm run dev
+
+5. **Open the app in your browser**
+    Vite will give you a local development link like:
+    http://localhost:5173
+
+
+## 🔑 Login Credentials
+ **Use the following credentials to log in:**
+   Email: admin@example.com
+   Password: 123456
+
+
+## 📂 Project Structure
+ src/
+ ├── assets/           # JSON data files for employees & leaves
+ ├── components/       # Navbar, Sidebar, etc.
+ ├── context/          # AuthContext for login/logout state
+ ├── pages/            # Employees, Leaves, Profile, Login
+ ├── dummyAuth.js      # Mock login authentication function
+ ├── App.jsx           # App routes & structure
+ └── main.jsx          # Entry point
+
+
+## ⚠️ Known Issues
+  1.Authentication is mocked — no real backend API.
+  2.Data is stored in-memory — changes will reset on page reload.
+
+## 📜 License
+   
+---
+
+If you copy‑paste the above into your `README.md`, it will be **complete** with **setup instructions, credentials, known issues, and features** exactly as required.  
+Do you also want me to **add example screenshots** of your Employee Directory & Login page in the README before you upload it to GitHub? That would make it more catchy.
+
+
