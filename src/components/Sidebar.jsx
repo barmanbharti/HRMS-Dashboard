@@ -18,7 +18,7 @@ const Sidebar = () => {
       <div className="bg-gray-100 p-2 md:hidden flex justify-between items-center">
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="bg-blue-500 text-white px-3 py-1 rounded"
+          className="bg-teal-500 text-white px-3 py-1 rounded"
         >
           {isOpen ? "Close Menu" : "Open Menu"}
         </button>

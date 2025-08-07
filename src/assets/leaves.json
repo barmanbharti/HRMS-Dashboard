@@ -4,9 +4,6 @@
   { "employee": "Michael Johnson", "type": "Casual Leave", "dates": "18-19 Aug", "status": "Rejected" },
   { "employee": "Emily Davis", "type": "Maternity Leave", "dates": "1-30 Sep", "status": "Approved" },
   { "employee": "Chris Brown", "type": "Sick Leave", "dates": "21-23 Aug", "status": "Pending" },
-  { "employee": "Sophia Wilson", "type": "Annual Leave", "dates": "25-28 Aug", "status": "Approved" },
-  { "employee": "Daniel Martinez", "type": "Sick Leave", "dates": "27-28 Aug", "status": "Pending" },
-  { "employee": "Olivia Taylor", "type": "Casual Leave", "dates": "29-30 Aug", "status": "Rejected" },
-  { "employee": "Liam Anderson", "type": "Annual Leave", "dates": "5-10 Sep", "status": "Approved" },
-  { "employee": "Ava Thomas", "type": "Sick Leave", "dates": "2-4 Sep", "status": "Pending" }
+  { "employee": "Sophia Wilson", "type": "Annual Leave", "dates": "25-28 Aug", "status": "Approved" }
+ 
 ]

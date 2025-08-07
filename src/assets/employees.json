@@ -4,10 +4,7 @@
     { "name": "Michael Johnson", "email": "michael@example.com", "department": "Finance", "role": "Accountant", "status": "Active" },
     { "name": "Emily Davis", "email": "emily@example.com", "department": "Marketing", "role": "Content Writer", "status": "Active" },
     { "name": "Chris Brown", "email": "chris@example.com", "department": "IT", "role": "System Admin", "status": "Inactive" },
-    { "name": "Sophia Wilson", "email": "sophia@example.com", "department": "Sales", "role": "Sales Executive", "status": "Active" },
-    { "name": "Daniel Martinez", "email": "daniel@example.com", "department": "IT", "role": "UI/UX Designer", "status": "Active" },
-    { "name": "Olivia Taylor", "email": "olivia@example.com", "department": "HR", "role": "HR Assistant", "status": "Inactive" },
-    { "name": "Liam Anderson", "email": "liam@example.com", "department": "Operations", "role": "Operations Manager", "status": "Active" },
-    { "name": "Ava Thomas", "email": "ava@example.com", "department": "Finance", "role": "Financial Analyst", "status": "Active" }
+    { "name": "Sophia Wilson", "email": "sophia@example.com", "department": "Sales", "role": "Sales Executive", "status": "Active" }
+   
   ]
   
